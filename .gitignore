@@ -1,0 +1,22 @@
+# Node modules
+**/node_modules/
+
+# React App Build
+/web-app/build/
+
+# React Native Build
+/MyReactNativeApp/mobile-app/android/
+/MyReactNativeApp/mobile-app/ios/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Environment
+.env
+
+# Expo
+.expo/
+.expo-shared/
